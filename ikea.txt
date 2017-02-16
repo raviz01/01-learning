@@ -44,3 +44,5 @@ Sofa:
 KLIPPAN 649
 (http://www.ikea.com/my/en/catalog/products/S09010622/#/S49010615)
 Article Number : 490.106.15
+
+Note: Testing the content in ikea note
