@@ -1,4 +1,0 @@
-username: darkgamingzone
-password: darkgamingzone.com
-
-Note: Ravi is testing the functionality of the GIT commands
